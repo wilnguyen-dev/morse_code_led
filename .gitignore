@@ -1,0 +1,5 @@
+build/
+*.bin
+*.elf
+arduino_secrets.h
+.DS_Store
